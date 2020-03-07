@@ -1,0 +1,5 @@
+C:\Users\migue\Downloads\MissingNumbers-master\MissingNumbers-master\MissingNumber.Business\obj\Debug\MissingNumbers.Business.csprojAssemblyReference.cache
+C:\Users\migue\Downloads\MissingNumbers-master\MissingNumbers-master\MissingNumber.Business\obj\Debug\MissingNumber.Business.Messages.Messages.resources
+C:\Users\migue\Downloads\MissingNumbers-master\MissingNumbers-master\MissingNumber.Business\obj\Debug\MissingNumbers.Business.csproj.GenerateResource.cache
+C:\Users\migue\Downloads\MissingNumbers-master\MissingNumbers-master\MissingNumber.Business\obj\Debug\MissingNumber.Business.dll
+C:\Users\migue\Downloads\MissingNumbers-master\MissingNumbers-master\MissingNumber.Business\obj\Debug\MissingNumber.Business.pdb
