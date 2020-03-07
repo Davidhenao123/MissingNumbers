@@ -1,0 +1,9 @@
+D:\PuntosColombia\MissingNumbers\MissingNumbers\bin\Debug\MissingNumbers.exe.config
+D:\PuntosColombia\MissingNumbers\MissingNumbers\bin\Debug\MissingNumbers.exe
+D:\PuntosColombia\MissingNumbers\MissingNumbers\bin\Debug\MissingNumbers.pdb
+D:\PuntosColombia\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.csprojAssemblyReference.cache
+D:\PuntosColombia\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.Properties.Resources.resources
+D:\PuntosColombia\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.csproj.GenerateResource.cache
+D:\PuntosColombia\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.exe
+D:\PuntosColombia\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.pdb
+D:\PuntosColombia\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.Form1.resources

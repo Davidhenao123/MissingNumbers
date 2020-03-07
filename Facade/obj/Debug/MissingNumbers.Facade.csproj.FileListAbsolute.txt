@@ -1,0 +1,5 @@
+D:\PuntosColombia\MissingNumbers\Facade\bin\Debug\Facade.dll
+D:\PuntosColombia\MissingNumbers\Facade\bin\Debug\Facade.pdb
+D:\PuntosColombia\MissingNumbers\Facade\obj\Debug\MissingNumbers.Facade.csprojAssemblyReference.cache
+D:\PuntosColombia\MissingNumbers\Facade\obj\Debug\Facade.dll
+D:\PuntosColombia\MissingNumbers\Facade\obj\Debug\Facade.pdb

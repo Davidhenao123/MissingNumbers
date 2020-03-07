@@ -1,0 +1,5 @@
+D:\PuntosColombia\MissingNumbers\MissingNumber.Business\bin\Debug\MissingNumber.Business.dll
+D:\PuntosColombia\MissingNumbers\MissingNumber.Business\bin\Debug\MissingNumber.Business.pdb
+D:\PuntosColombia\MissingNumbers\MissingNumber.Business\obj\Debug\MissingNumber.Business.csprojAssemblyReference.cache
+D:\PuntosColombia\MissingNumbers\MissingNumber.Business\obj\Debug\MissingNumber.Business.dll
+D:\PuntosColombia\MissingNumbers\MissingNumber.Business\obj\Debug\MissingNumber.Business.pdb
